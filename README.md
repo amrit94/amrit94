@@ -1,4 +1,4 @@
-![aa](https://ik.imagekit.io/8fh0zzm0gxio/header-image.png)
+<!-- ![Header Image](https://ik.imagekit.io/8fh0zzm0gxio/header-image.png) -->
 <h1 align="center">Hi 👋, I'm Amrit Prasad</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
