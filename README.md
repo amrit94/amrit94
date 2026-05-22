@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **amritpra94@gmail.com**
+- 📫 How to reach me **hi@amritprasad.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
